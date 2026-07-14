@@ -4,8 +4,6 @@ I'm a Computer Science undergraduate based in the UK, focused on **QA Automation
 
 I enjoy understanding how software works, improving quality, and building reliable solutions through testing and automation. I like exploring new technologies, creating practical projects, and continuously developing my engineering skills.
 
-> 🐛 I like breaking things... to find bugs before users do.
-
 ## 🔭 Current Focus
 
 - ☕ Java & Object-Oriented Programming
