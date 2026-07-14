@@ -8,6 +8,8 @@ I'm a **Computer Science undergraduate based in the UK**, focused on **QA Automa
 
 I enjoy understanding how software works, improving quality, and building reliable solutions through testing and automation. I like exploring new technologies, creating practical projects, and continuously developing my engineering skills.
 
+> 🐛 I like breaking things... to find bugs before users do.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -20,15 +22,25 @@ I enjoy understanding how software works, improving quality, and building reliab
 
 ## 🔭 Current Focus
 
-- Java & Object-Oriented Programming
-- Test automation with Selenium, Playwright, Cypress, TestNG/PyTest
-- REST API testing, Postman, and JSON validation
-- SQL and database testing
-- Git and version control workflows
-- Jira and Agile testing practices
-- CI/CD fundamentals
-- JMeter and performance testing basics
-- Preparing for ISTQB Certified Tester Foundation Level (CTFL)
+| Area | Technologies |
+|---|---|
+| Programming | Java, Object-Oriented Programming |
+| Test Automation | Selenium, Playwright, Cypress, TestNG/PyTest |
+| API Testing | REST API Testing, Postman, JSON Validation |
+| Database Testing | SQL, Database Testing, Data Validation |
+| Tools & Practices | Git, Jira, Agile Testing Practices |
+| DevOps | CI/CD Fundamentals |
+| Performance Testing | JMeter, Load & Stress Testing Basics |
+| Certification | ISTQB Certified Tester Foundation Level (CTFL) — Preparing |
+
+---
+
+## 🌱 A Few Things About Me
+
+- 🔎 I enjoy researching new topics and exploring how things work
+- 🎮 I like gaming and discovering new worlds through different games
+- 💪 I enjoy staying active and working towards personal goals
+- 🚀 Always curious and looking for opportunities to learn and grow
 
 ---
 
@@ -42,15 +54,6 @@ I enjoy understanding how software works, improving quality, and building reliab
 
 ---
 
-## 🌱 A Few Things About Me
-
-- I enjoy researching new topics and exploring how things work
-- I like gaming and discovering new worlds through different games
-- I enjoy staying active and working towards personal goals
-- Always curious and looking for opportunities to learn and grow
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
@@ -58,5 +61,3 @@ I enjoy understanding how software works, improving quality, and building reliab
 <a href="https://mehreentalat.netlify.app">Portfolio</a> •
 <a href="mailto:mehreentalat.uk@gmail.com">Email</a>
 </p>
-
----
