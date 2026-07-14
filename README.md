@@ -7,6 +7,7 @@
 I'm a **Computer Science undergraduate based in the UK**, focused on **QA Automation and Quality Engineering**.
 
 I enjoy understanding how software works, improving quality, and building reliable solutions through testing and automation. I like exploring new technologies, creating practical projects, and continuously developing my engineering skills.
+
 ---
 
 ## 🛠️ Tech Stack
