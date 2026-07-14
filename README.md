@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=QA+Automation+Engineer+in+Progress;Computer+Science+Undergraduate" />
 </p>
 
-I'm a **Computer Science undergraduate based in the UK**, focused on **QA Automation and Quality Engineering**.
+I'm a **Computer Science undergraduate based in the UK**, specializing in **QA Automation and Quality Engineering**.
 
-I enjoy understanding how software works, improving quality, and building reliable solutions through testing and automation. I like exploring new technologies, creating practical projects, and continuously developing my engineering skills.
+I enjoy breaking down complex software architectures to find vulnerabilities and building robust automation frameworks. I focus on improving overall quality through scalable testing systems, exploring new technologies, and constantly sharpening my skills through practical engineering projects.
 
 ---
 
