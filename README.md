@@ -22,7 +22,7 @@ I enjoy understanding how software works, improving quality, and building reliab
 
 <p>
 
-Currently, I'm developing my skills in **QA Automation and Quality Engineering**, with a focus on test automation using **Selenium, Playwright, Cypress, and TestNG/PyTest**. I'm also exploring **REST API testing, SQL and database validation, Git workflows, CI/CD fundamentals, and performance testing with JMeter** while preparing for the **ISTQB Certified Tester Foundation Level (CTFL)** certification.
+Currently, I'm developing my skills in **Java, test automation frameworks, API testing, and database validation**. I'm exploring tools such as **Selenium, Playwright, Cypress, Postman, and JMeter**, while improving my understanding of **Git workflows, CI/CD practices, Agile methodologies, and preparing for the ISTQB Certified Tester Foundation Level (CTFL)** certification.
 
 </p>
 
