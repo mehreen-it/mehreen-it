@@ -7,6 +7,13 @@
 I'm a **Computer Science undergraduate based in the UK**, focused on **QA Automation and Quality Engineering**.
 
 I enjoy understanding how software works, improving quality, and building reliable solutions through testing and automation. I like exploring new technologies, creating practical projects, and continuously developing my engineering skills.
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+</p>
 
 ---
 
@@ -21,23 +28,6 @@ I enjoy understanding how software works, improving quality, and building reliab
 - ⚙️ CI/CD fundamentals
 - 📊 JMeter and performance testing basics
 - 📚 Preparing for ISTQB Certified Tester Foundation Level (CTFL)
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-
-</p>
-
----
-
-## 🌱 A Few Things About Me
-
-- 🔎 I enjoy researching new topics and exploring how things work
-- 🎮 I like gaming and discovering new worlds through different games
-- 💪 I enjoy staying active and working towards personal goals
-- 🚀 Always curious and looking for opportunities to learn and grow
 
 ---
 
@@ -58,3 +48,12 @@ I enjoy understanding how software works, improving quality, and building reliab
 <a href="https://mehreentalat.netlify.app">Portfolio</a> •
 <a href="mailto:mehreentalat.uk@gmail.com">Email</a>
 </p>
+
+---
+
+## 🌱 A Few Things About Me
+
+- 🔎 I enjoy researching new topics and exploring how things work
+- 🎮 I like gaming and discovering new worlds through different games
+- 💪 I enjoy staying active and working towards personal goals
+- 🚀 Always curious and looking for opportunities to learn and grow
