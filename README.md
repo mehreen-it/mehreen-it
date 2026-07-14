@@ -20,31 +20,9 @@ I enjoy understanding how software works, improving quality, and building reliab
 
 ## 🔭 Current Focus
 
-<p align="center">
+<p>
 
-☕ Java & OOP  
-&nbsp;•&nbsp;
-🤖 Selenium, Playwright, Cypress  
-&nbsp;•&nbsp;
-🧪 TestNG / PyTest  
-&nbsp;•&nbsp;
-🔌 REST API Testing & Postman  
-
-<br>
-
-🗄️ SQL & Database Testing  
-&nbsp;•&nbsp;
-🔧 Git & Version Control  
-&nbsp;•&nbsp;
-📌 Jira & Agile Practices  
-&nbsp;•&nbsp;
-⚙️ CI/CD Fundamentals  
-
-<br>
-
-📊 JMeter & Performance Testing  
-&nbsp;•&nbsp;
-📚 ISTQB CTFL Preparation
+Currently, I'm developing my skills in **QA Automation and Quality Engineering**, with a focus on test automation using **Selenium, Playwright, Cypress, and TestNG/PyTest**. I'm also exploring **REST API testing, SQL and database validation, Git workflows, CI/CD fundamentals, and performance testing with JMeter** while preparing for the **ISTQB Certified Tester Foundation Level (CTFL)** certification.
 
 </p>
 
