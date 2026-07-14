@@ -42,6 +42,15 @@ I enjoy understanding how software works, improving quality, and building reliab
 
 ---
 
+## 🌱 A Few Things About Me
+
+- 🔎 I enjoy researching new topics and exploring how things work
+- 🎮 I like gaming and discovering new worlds through different games
+- 💪 I enjoy staying active and working towards personal goals
+- 🚀 Always curious and looking for opportunities to learn and grow
+
+---
+
 ## 📫 Let's Connect
 
 <p align="center">
@@ -51,10 +60,3 @@ I enjoy understanding how software works, improving quality, and building reliab
 </p>
 
 ---
-
-## 🌱 A Few Things About Me
-
-- 🔎 I enjoy researching new topics and exploring how things work
-- 🎮 I like gaming and discovering new worlds through different games
-- 💪 I enjoy staying active and working towards personal goals
-- 🚀 Always curious and looking for opportunities to learn and grow
