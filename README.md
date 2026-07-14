@@ -16,7 +16,7 @@ Currently, I'm developing my skills in **Java, test automation frameworks, API t
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,git,github,docker,mysql,postgres" />
 
 </p>
 
