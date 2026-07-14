@@ -8,93 +8,49 @@ I'm a **Computer Science undergraduate based in the UK**, focused on **QA Automa
 
 I enjoy understanding how software works, improving quality, and building reliable solutions through testing and automation. I like exploring new technologies, creating practical projects, and continuously developing my engineering skills.
 
-> 🐛 I like breaking things... to find bugs before users do.
-
 ---
 
 ## 🔭 Current Focus
 
-I'm currently developing my skills in:
-
-| Area | Technologies |
-|---|---|
-| Programming | Java, Object-Oriented Programming, TypeScript |
-| Test Automation | Selenium, Playwright, Cypress, TestNG/PyTest |
-| API Testing | Postman, REST APIs, JSON Validation |
-| Database Testing | SQL, Joins, CRUD, Data Validation |
-| Testing Practices | Manual Testing, Regression Testing, Smoke Testing, UAT, STLC |
-| Tools | Git, Jira, Agile/Scrum |
-| Performance Testing | JMeter, Load Testing, Stress Testing |
-| DevOps | CI/CD Fundamentals |
-| Certification | ISTQB Certified Tester Foundation Level (CTFL) — Preparing |
+- ☕ Java & Object-Oriented Programming
+- 🤖 Test automation with Selenium, Playwright, Cypress, TestNG/PyTest
+- 🔌 REST API testing, Postman, and JSON validation
+- 🗄️ SQL and database testing
+- 🔧 Git and version control workflows
+- 📌 Jira and Agile testing practices
+- ⚙️ CI/CD fundamentals
+- 📊 JMeter and performance testing basics
+- 📚 Preparing for ISTQB Certified Tester Foundation Level (CTFL)
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,sql,git,github,docker" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+
+<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CI%2FCD-Basics-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
 </p>
-
-- Java
-- TypeScript
-- JavaScript
-- SQL
-
----
-
-## 🤖 Automation & Testing
-
-<p>
-<img src="https://skillicons.dev/icons?i=selenium,cypress,postman" />
-</p>
-
-- Selenium
-- Playwright
-- Cypress
-- TestNG
-- PyTest
-- Postman
-- REST API Testing
-- JSON Validation
-
----
-
-## 🗄️ Database & Data Testing
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-- SQL Testing
-- Database Validation
-- CRUD Operations
-- Joins
-- Data Integrity Testing
-
----
-
-## 🔧 Tools & Practices
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
-</p>
-
-- Git & Version Control
-- Jira
-- Agile/Scrum
-- CI/CD Basics
-
----
-
-## 📊 Performance Testing
-
-- JMeter
-- Load Testing
-- Stress Testing
-- Basic Performance Analysis
 
 ---
 
@@ -111,6 +67,7 @@ I'm currently developing my skills in:
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mehreen-it&show_icons=true&hide_border=true" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehreen-it&hide_border=true" />
 </p>
 
@@ -118,7 +75,7 @@ I'm currently developing my skills in:
 
 ## 📫 Let's Connect
 
-<p>
+<p align="center">
 <a href="https://linkedin.com/in/mehreen-talat">LinkedIn</a> •
 <a href="https://mehreentalat.netlify.app">Portfolio</a> •
 <a href="mailto:mehreentalat.uk@gmail.com">Email</a>
