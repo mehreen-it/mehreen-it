@@ -8,21 +8,13 @@ I'm a **Computer Science undergraduate based in the UK**, specializing in **QA A
 
 I enjoy breaking down complex software architectures to find vulnerabilities and building robust automation frameworks. I focus on improving overall quality through scalable testing systems, exploring new technologies, and constantly sharpening my skills through practical engineering projects.
 
+Currently, I'm developing my skills in **Java, test automation frameworks, API testing, and database validation**. I'm exploring tools such as **Selenium, Playwright, Cypress, Postman, and JMeter**, while improving my understanding of **Git workflows, CI/CD practices, Agile methodologies, and preparing for the ISTQB Certified Tester Foundation Level (CTFL)** certification.
+
 ---
 
 ## Tech Stack
 
 <p align="center">
-
-</p>
-
----
-
-## Current Focus
-
-<p>
-
-Currently, I'm developing my skills in **Java, test automation frameworks, API testing, and database validation**. I'm exploring tools such as **Selenium, Playwright, Cypress, Postman, and JMeter**, while improving my understanding of **Git workflows, CI/CD practices, Agile methodologies, and preparing for the ISTQB Certified Tester Foundation Level (CTFL)** certification.
 
 </p>
 
