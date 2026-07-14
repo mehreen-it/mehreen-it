@@ -30,10 +30,10 @@ Currently, I'm developing my skills in **Java, test automation frameworks, API t
 
 ## 🌱 A Few Things About Me
 
-- 🔎 I enjoy researching new topics and exploring how things work
-- 🎮 I like gaming and discovering new worlds through different games
-- 💪 I enjoy staying active and working towards personal goals
-- 🚀 Always curious and looking for opportunities to learn and grow
+- I enjoy researching new topics and exploring how things work
+- I like gaming and discovering new worlds through different games
+- I enjoy staying active and working towards personal goals
+- Always curious and looking for opportunities to learn and grow
 
 ---
 
@@ -51,6 +51,4 @@ Currently, I'm developing my skills in **Java, test automation frameworks, API t
 
 <p align="center">
 <a href="https://linkedin.com/in/mehreen-talat">LinkedIn</a> •
-<a href="https://mehreentalat.netlify.app">Portfolio</a> •
-<a href="mailto:mehreentalat.uk@gmail.com">Email</a>
 </p>
