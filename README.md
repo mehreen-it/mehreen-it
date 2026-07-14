@@ -16,7 +16,7 @@ Currently, I'm developing my skills in **Java, test automation frameworks, API t
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,git,github,docker,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=selenium,playwright,cypress,testng,pytest,postman,jmeter,java,mysql,oracle,jira,git" />
 <p align="center">
 
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
