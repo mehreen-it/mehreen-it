@@ -14,77 +14,96 @@ I enjoy understanding how software works, improving quality, and building reliab
 
 ## 🔭 Current Focus
 
-| Area                | Technologies                                                 |
-| ------------------- | ------------------------------------------------------------ |
-| Programming         | Java, Object-Oriented Programming, JavaScript, TypeScript    |
-| Test Automation     | Selenium, Playwright, Cypress, TestNG                        |
-| API Testing         | Postman, REST APIs, JSON Validation                          |
-| Database Testing    | SQL, Data Validation, Oracle SQL                             |
-| Testing Practices   | Manual Testing, Regression Testing, Smoke Testing, UAT, STLC |
-| Tools               | Git, Jira, Agile/Scrum                                       |
-| Performance Testing | JMeter, Load & Stress Testing Basics                         |
-| DevOps              | CI/CD Fundamentals                                           |
-| Certification       | ISTQB Certified Tester Foundation Level (CTFL) — Preparing   |
+I'm currently developing my skills in:
+
+| Area | Technologies |
+|---|---|
+| Programming | Java, Object-Oriented Programming, TypeScript |
+| Test Automation | Selenium, Playwright, Cypress, TestNG/PyTest |
+| API Testing | Postman, REST APIs, JSON Validation |
+| Database Testing | SQL, Joins, CRUD, Data Validation |
+| Testing Practices | Manual Testing, Regression Testing, Smoke Testing, UAT, STLC |
+| Tools | Git, Jira, Agile/Scrum |
+| Performance Testing | JMeter, Load Testing, Stress Testing |
+| DevOps | CI/CD Fundamentals |
+| Certification | ISTQB Certified Tester Foundation Level (CTFL) — Preparing |
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,sql" />
-</p>
-
-### Testing & Automation
+## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=selenium,postman,cypress" />
+<img src="https://skillicons.dev/icons?i=java,js,ts" />
 </p>
 
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,jira,docker" />
-</p>
+- Java
+- TypeScript
+- JavaScript
+- SQL
 
 ---
 
-## 🚀 Featured Projects
+## 🤖 Automation & Testing
 
-| Project                   | Description                                                  | Technologies                       |
-| ------------------------- | ------------------------------------------------------------ | ---------------------------------- |
-| Automation Frameworks     | Building maintainable automated testing solutions            | Java, Selenium, TestNG, Playwright |
-| API Testing Projects      | Validating endpoints, responses, and data integrity          | Postman, REST APIs, JSON           |
-| Database Applications     | Exploring reliability and data quality                       | SQL, Oracle                        |
-| Software Quality Projects | Testing applications from a user and engineering perspective | Testing, Automation                |
+<p>
+<img src="https://skillicons.dev/icons?i=selenium,cypress,postman" />
+</p>
+
+- Selenium
+- Playwright
+- Cypress
+- TestNG
+- PyTest
+- Postman
+- REST API Testing
+- JSON Validation
 
 ---
 
-## 💼 Experience
+## 🗄️ Database & Data Testing
 
-### QA Intern
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
-**SAMWI — IT Services & Consulting**
+- SQL Testing
+- Database Validation
+- CRUD Operations
+- Joins
+- Data Integrity Testing
 
-* Developed automation scripts and improved regression testing efficiency
-* Performed UI, API, and manual testing
-* Created and executed test cases
-* Worked with developers to identify and resolve defects
+---
 
-### JPMorgan Chase Technology Insight Programme
+## 🔧 Tools & Practices
 
-* Explored enterprise technology, fintech systems, cloud platforms, and data environments
-* Gained insight into large-scale software engineering practices
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
+
+- Git & Version Control
+- Jira
+- Agile/Scrum
+- CI/CD Basics
+
+---
+
+## 📊 Performance Testing
+
+- JMeter
+- Load Testing
+- Stress Testing
+- Basic Performance Analysis
 
 ---
 
 ## 🌱 A Few Things About Me
 
-* 🔎 I enjoy researching new topics and exploring how things work
-* 🎮 I like gaming and discovering new worlds through different games
-* 💪 I enjoy staying active and working towards personal goals
-* 🚀 Always curious and looking for opportunities to learn and grow
+- 🔎 I enjoy researching new topics and exploring how things work
+- 🎮 I like gaming and discovering new worlds through different games
+- 💪 I enjoy staying active and working towards personal goals
+- 🚀 Always curious and looking for opportunities to learn and grow
 
 ---
 
