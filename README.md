@@ -10,7 +10,7 @@ I enjoy breaking down complex software architectures to find vulnerabilities and
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -18,7 +18,7 @@ I enjoy breaking down complex software architectures to find vulnerabilities and
 
 ---
 
-## 🔭 Current Focus
+## Current Focus
 
 <p>
 
@@ -28,7 +28,7 @@ Currently, I'm developing my skills in **Java, test automation frameworks, API t
 
 ---
 
-## 🌱 A Few Things About Me
+## A Few Things About Me
 
 - I enjoy researching new topics and exploring how things work
 - I like gaming and discovering new worlds through different games
@@ -37,7 +37,7 @@ Currently, I'm developing my skills in **Java, test automation frameworks, API t
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mehreen-it&show_icons=true&hide_border=true" />
@@ -47,7 +47,7 @@ Currently, I'm developing my skills in **Java, test automation frameworks, API t
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
 <a href="https://linkedin.com/in/mehreen-talat">LinkedIn</a> •
