@@ -8,8 +8,6 @@ I'm a **Computer Science undergraduate based in the UK**, focused on **QA Automa
 
 I enjoy understanding how software works, improving quality, and building reliable solutions through testing and automation. I like exploring new technologies, creating practical projects, and continuously developing my engineering skills.
 
-> 🐛 I like breaking things... to find bugs before users do.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -22,16 +20,33 @@ I enjoy understanding how software works, improving quality, and building reliab
 
 ## 🔭 Current Focus
 
-| Area | Technologies |
-|---|---|
-| Programming | Java, Object-Oriented Programming |
-| Test Automation | Selenium, Playwright, Cypress, TestNG/PyTest |
-| API Testing | REST API Testing, Postman, JSON Validation |
-| Database Testing | SQL, Database Testing, Data Validation |
-| Tools & Practices | Git, Jira, Agile Testing Practices |
-| DevOps | CI/CD Fundamentals |
-| Performance Testing | JMeter, Load & Stress Testing Basics |
-| Certification | ISTQB Certified Tester Foundation Level (CTFL) — Preparing |
+<p align="center">
+
+☕ Java & OOP  
+&nbsp;•&nbsp;
+🤖 Selenium, Playwright, Cypress  
+&nbsp;•&nbsp;
+🧪 TestNG / PyTest  
+&nbsp;•&nbsp;
+🔌 REST API Testing & Postman  
+
+<br>
+
+🗄️ SQL & Database Testing  
+&nbsp;•&nbsp;
+🔧 Git & Version Control  
+&nbsp;•&nbsp;
+📌 Jira & Agile Practices  
+&nbsp;•&nbsp;
+⚙️ CI/CD Fundamentals  
+
+<br>
+
+📊 JMeter & Performance Testing  
+&nbsp;•&nbsp;
+📚 ISTQB CTFL Preparation
+
+</p>
 
 ---
 
