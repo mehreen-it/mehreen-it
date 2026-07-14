@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Mehreen Talat
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=QA+Automation+Engineer+in+Progress;Computer+Science+Undergraduate;Building+Reliable+Software+Through+Testing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=QA+Automation+Engineer+in+Progress;Computer+Science+Undergraduate" />
 </p>
 
 I'm a **Computer Science undergraduate based in the UK**, focused on **QA Automation and Quality Engineering**.
