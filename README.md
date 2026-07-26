@@ -1,14 +1,14 @@
 # Hey there! 👋 I'm Mehreen 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=QA+Automation+Engineer+in+Progress;Computer+Science+Undergraduate" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=QA+Engineer+in+Progress;Computer+Science+Undergraduate" />
 </p>
 
-I'm a **Computer Science undergraduate based in the UK**, specializing in **QA Automation and Quality Engineering**.
+I'm a **Computer Science undergraduate based in the UK**, specializing in **Software Testing and Quality Engineering**.
 
-I enjoy breaking down complex software architectures to find vulnerabilities and building robust automation frameworks. I focus on improving overall quality through scalable testing systems, exploring new technologies, and constantly sharpening my skills through practical engineering projects.
+I enjoy ensuring software quality through manual testing, API validation, and automation. My interests include designing test cases, identifying defects, validating software behaviour, and building reliable automation solutions that improve testing efficiency.
 
-Currently, I'm developing my skills in **Java, test automation frameworks, API testing, and database validation**. I'm exploring tools such as **Selenium, Playwright, Cypress, Postman, and JMeter**, while improving my understanding of **Git workflows, CI/CD practices, Agile methodologies, and preparing for the ISTQB Certified Tester Foundation Level (CTFL)** certification.
+Currently, I'm developing my skills in **manual testing, Java, REST API testing, database testing, and test automation**. I'm gaining hands-on experience with **Selenium, Playwright, Cypress, Postman, SQL, Git, Jira, and Kubernetes**, while expanding my knowledge of the **Software Testing Life Cycle (STLC), Agile methodologies, CI/CD practices**, and preparing for the **ISTQB Certified Tester Foundation Level (CTFL)** certification.
 
 ---
 
