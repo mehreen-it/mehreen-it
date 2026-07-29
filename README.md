@@ -43,7 +43,7 @@ Currently building my QA automation skills with **TypeScript**, **JavaScript (ES
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehreen-it&theme=flat&no-frame=true&margin-w=15&row=1&column=6" />
+  <img src="https://komarev.com/ghpvc/?username=mehreen-it&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 ---
 
