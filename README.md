@@ -37,17 +37,7 @@ Currently building my QA automation skills with **TypeScript**, **JavaScript (ES
 - I like gaming and discovering new worlds through different games
 - I enjoy staying active and working towards personal goals
 - Always curious and looking for opportunities to learn and grow
-
----
-
-## GitHub Stats
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=header"/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehreen-it&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
+- 
 ---
 
 ## Let's Connect
