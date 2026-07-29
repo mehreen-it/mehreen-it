@@ -8,7 +8,7 @@ I'm a **Computer Science undergraduate based in the UK**, specializing in **Soft
 
 I enjoy ensuring software quality through manual testing, API validation, and automation. My interests include designing test cases, identifying defects, validating software behaviour, and building reliable automation solutions that improve testing efficiency.
 
-Currently, I'm developing my skills in **manual testing, Java, REST API testing, database testing, and test automation**. I'm gaining hands-on experience with **Selenium, Playwright, Cypress, Postman, SQL, Git, Jira, and Kubernetes**, while expanding my knowledge of the **Software Testing Life Cycle (STLC), Agile methodologies, CI/CD practices**, and preparing for the **ISTQB Certified Tester Foundation Level (CTFL)** certification.
+Currently, I'm developing my skills in test automation, API testing, and database testing using **TypeScript**, **JavaScript (ES6+)**, and **SQL**. I'm gaining hands-on experience with **Playwright**, **Cypress**, **Postman**, **Git**, **GitHub Actions**, and **Jira**, while expanding my knowledge of **Page Object Model (POM)** design, **data-driven and cross-browser testing**, and the **Software Testing Life Cycle (STLC)**, **Agile/Scrum** methodologies, and **REST API testing** practices, and preparing for the **ISTQB Certified Tester Foundation Level (CTFL)** certification.
 
 ---
 
