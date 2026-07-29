@@ -43,6 +43,7 @@ Currently building my QA automation skills with **TypeScript**, **JavaScript (ES
 ---
 
 ## Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehreen-it&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehreen-it&layout=compact&theme=transparent&hide_border=true" />
 </p>
