@@ -15,17 +15,19 @@ Currently building my QA automation skills with **TypeScript**, **JavaScript (ES
 ## Tech Stack
 
 <p align="center">
-  
-<img src="https://skillicons.dev/icons?i=java,git,github,mysql,postgres,docker" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="48" height="48" />
+<!-- Languages & Core -->
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css,vscode,git,github,githubactions" />
+
+<br><br>
+
+<!-- Testing & API -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="48" height="48" />
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" />
 
 </p>
-
 ---
 
 ## A Few Things About Me
