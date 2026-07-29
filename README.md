@@ -31,6 +31,8 @@ Currently building my QA automation skills with **TypeScript**, **JavaScript (ES
   <strong>STLC</strong> • <strong>Agile/Scrum</strong>
 </p>
 
+---
+
 ## A Few Things About Me
 
 - I enjoy researching new topics and exploring how things work
