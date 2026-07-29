@@ -30,7 +30,6 @@ Currently building my QA automation skills with **TypeScript**, **JavaScript (ES
   <strong>Smoke Testing</strong> • <strong>Regression Testing</strong> •
   <strong>STLC</strong> • <strong>Agile/Scrum</strong>
 </p>
----
 
 ## A Few Things About Me
 
