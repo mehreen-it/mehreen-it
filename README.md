@@ -41,6 +41,7 @@ Currently building my QA automation skills with **TypeScript**, **JavaScript (ES
 ---
 
 ## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehreen-it&layout=compact&hide_border=true&theme=transparent" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mehreen-it&label=Profile%20Views&color=0e75b6&style=flat" />
