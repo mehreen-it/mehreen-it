@@ -37,7 +37,7 @@ Currently building my QA automation skills with **TypeScript**, **JavaScript (ES
 - I like gaming and discovering new worlds through different games
 - I enjoy staying active and working towards personal goals
 - Always curious and looking for opportunities to learn and grow
-- 
+
 ---
 
 ## Let's Connect
