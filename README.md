@@ -42,9 +42,7 @@ Currently building my QA automation skills with **TypeScript**, **JavaScript (ES
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mehreen-it/mehreen-it/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=header"/>
 ---
 
 ## Let's Connect
