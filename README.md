@@ -15,19 +15,13 @@ Currently building my QA automation skills with **TypeScript**, **JavaScript (ES
 ## Tech Stack
 
 <p align="center">
-
-<!-- Languages & Core -->
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css,vscode,git,github,githubactions" />
-
-<br><br>
-
-<!-- Testing & API -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="48" height="48" />
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" />
-
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css,git,github,githubactions,vscode,playwright,cypress,postman,jira" />
 </p>
+
+<p align="center">
+  <strong>SQL</strong> • <strong>REST APIs</strong> • <strong>JSON Schema</strong> • <strong>APIRequestContext</strong> • <strong>POM</strong> • <strong>Data-Driven Testing</strong> • <strong>Cross-Browser Testing</strong> • <strong>E2E</strong> • <strong>Smoke & Regression</strong> • <strong>STLC</strong> • <strong>Agile/Scrum</strong>
+</p>
+
 ---
 
 ## A Few Things About Me
