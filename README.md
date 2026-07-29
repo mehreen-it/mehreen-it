@@ -45,14 +45,6 @@ Currently building my QA automation skills with **TypeScript**, **JavaScript (ES
 <p align="center">
   <img src="https://raw.githubusercontent.com/mehreen-it/mehreen-it/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehreen-it&theme=github-compact&hide_border=true" />
-
-<img src="https://raw.githubusercontent.com/mehreen-it/mehreen-it/output/github-contribution-grid-snake.svg" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehreen-it&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 ---
 
 ## Let's Connect
