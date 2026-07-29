@@ -15,13 +15,21 @@ Currently building my QA automation skills with **TypeScript**, **JavaScript (ES
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css,git,github,githubactions,vscode,playwright,cypress,postman,jira" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css,git,github,githubactions,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="48" height="48" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" />
 </p>
 
 <p align="center">
-  <strong>SQL</strong> • <strong>REST APIs</strong> • <strong>JSON Schema</strong> • <strong>APIRequestContext</strong> • <strong>POM</strong> • <strong>Data-Driven Testing</strong> • <strong>Cross-Browser Testing</strong> • <strong>E2E</strong> • <strong>Smoke & Regression</strong> • <strong>STLC</strong> • <strong>Agile/Scrum</strong>
+  <strong>REST APIs</strong> • <strong>APIRequestContext</strong> • <strong>JSON Schema</strong> •
+  <strong>Page Object Model (POM)</strong> • <strong>Data-Driven Testing</strong> •
+  <strong>Cross-Browser Testing</strong> • <strong>End-to-End (E2E)</strong> •
+  <strong>Smoke Testing</strong> • <strong>Regression Testing</strong> •
+  <strong>STLC</strong> • <strong>Agile/Scrum</strong>
 </p>
-
 ---
 
 ## A Few Things About Me
