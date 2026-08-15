@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=QA+Automation+Engineer+in+Progress;Computer+Science+Undergraduate" />
 </p>
 
-I'm a **Computer Science undergraduate based in the UK**, specializing in **Software Testing and Quality Engineering**.
+I'm a **Computer Science undergraduate based in the UK**, specializing in **QA Automation and Quality Engineering**.
 
-I enjoy ensuring software quality through manual testing, API validation, and automation. My interests include designing test cases, identifying defects, validating software behaviour, and building reliable automation solutions that improve testing efficiency.
+I enjoy building reliable **QA automation** solutions that improve test coverage, efficiency, and software quality. My interests include designing automated test cases, validating software behaviour, API testing, end-to-end testing, and developing maintainable automation frameworks.
 
-Currently building my QA automation skills with **TypeScript**, **JavaScript (ES6+)**, and **Playwright**, along with **Cypress**, **SQL**, and **Node.js**. I'm also developing my understanding of **Page Object Model (POM)** design, **REST API testing**, and **data-driven and cross-browser testing**, alongside core practices like **STLC** and **Agile/Scrum**. On the tooling side, I'm working with **Postman**, **Git**, **GitHub Actions**, and **Jira** - while preparing for the **ISTQB Certified Tester Foundation Level (CTFL)** certification.
+Currently building my QA automation skills with **TypeScript, JavaScript (ES6+),** and **Playwright,** along with **Cypress, SQL,** and **Node.js.** I'm also developing my understanding of **Page Object Model (POM)** design, **REST API testing,** and **data-driven and cross-browser testing,** alongside core practices like **STLC** and **Agile/Scrum.** On the tooling side, I'm working with **Postman, Git, GitHub Actions,** and **Jira,** while preparing for the **ISTQB Certified Tester Foundation Level (CTFL) certification.**
 
 ---
 
