@@ -31,10 +31,3 @@ Currently building my QA automation skills with **TypeScript, JavaScript (ES6+),
   <strong>STLC</strong> • <strong>Agile/Scrum</strong>
 </p>
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehreen-it&theme=github-compact&hide_border=true" />
-</p>
