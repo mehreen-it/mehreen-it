@@ -10,8 +10,6 @@ I build **reliable, maintainable test automation** for modern web applications a
 
 I use tools including **Postman, Git, GitHub Actions, and Jira**, applying testing practices across the **STLC** and **Agile/Scrum** environments to build **scalable automation frameworks and robust test suites** that reflect real-world QA engineering practices.
 
-I'm also preparing for the **ISTQB Certified Tester Foundation Level (CTFL)** certification.
-
 ---
 
 ## Tech Stack
