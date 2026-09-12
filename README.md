@@ -6,13 +6,9 @@
 
 I'm a **Computer Science undergraduate based in the UK**, focused on **QA Automation and Quality Engineering**.
 
-I build **reliable, maintainable test automation** for modern web applications and APIs, with a focus on improving **test coverage, software quality, and testing efficiency**.
+I build **reliable, maintainable test automation** for modern web applications and APIs, with a focus on improving **test coverage, software quality, and testing efficiency**. My projects span **UI, end-to-end, API, and integration testing**, using **Playwright, Cypress, TypeScript, JavaScript, SQL, and Node.js**, with practical implementation of **Page Object Model (POM), REST API testing, data-driven testing, cross-browser testing, and automated CI workflows**.
 
-My projects cover **UI, end-to-end, API, and integration testing**, using **Playwright, Cypress, TypeScript, JavaScript, SQL, and Node.js**. I apply practices such as **Page Object Model (POM), REST API testing, data-driven testing, cross-browser testing, and automated CI workflows**.
-
-My testing workflow includes tools such as **Postman, Git, GitHub Actions, and Jira**, alongside testing practices across the **STLC** and **Agile/Scrum** environments.
-
-I'm particularly focused on building **scalable automation frameworks and robust test suites** that reflect real-world QA engineering practices.
+I use tools including **Postman, Git, GitHub Actions, and Jira**, applying testing practices across the **STLC** and **Agile/Scrum** environments to build **scalable automation frameworks and robust test suites** that reflect real-world QA engineering practices.
 
 I'm also preparing for the **ISTQB Certified Tester Foundation Level (CTFL)** certification.
 
