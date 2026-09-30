@@ -6,9 +6,11 @@
 
 I'm a **Computer Science undergraduate based in the UK**, focused on **QA Automation and Quality Engineering**.
 
-I build **reliable, maintainable test automation** for modern web applications and APIs, with a focus on improving **test coverage, software quality, and testing efficiency**. My projects span **UI, end-to-end, API, and integration testing**, using **Playwright, Cypress, TypeScript, JavaScript, SQL, and Node.js**, with practical implementation of **Page Object Model (POM), REST API testing, data-driven testing, cross-browser testing, and automated CI workflows**.
+I like breaking things, finding bugs, and building automation that makes testing easier and more reliable. I mainly work with Playwright, TypeScript, JavaScript, APIs, and SQL, and I'm always learning by building.
 
-I use tools including **Postman, Git, GitHub Actions, and Jira**, applying testing practices across the **STLC** and **Agile/Scrum** environments to build **scalable automation frameworks and robust test suites** that reflect real-world QA engineering practices.
+Most of my work is around UI, API, and end-to-end automation, with a focus on writing maintainable tests and making them useful in real development workflows.
+
+Feel free to have a look around! 🐛
 
 ---
 
