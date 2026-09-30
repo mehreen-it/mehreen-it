@@ -4,11 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=QA+Automation+Engineer+in+Progress;Computer+Science+Undergraduate" />
 </p>
 
-I'm a **Computer Science undergraduate based in the UK**, focused on **QA Automation and Quality Engineering**.
+I'm a Computer Science undergraduate based in the UK, focused on QA Automation and Quality Engineering.
 
-I build test automation for web applications and APIs, mainly working with Playwright, TypeScript, JavaScript, APIs, and SQL. 
+I build test automation for web applications and APIs, mainly working with Playwright, TypeScript, JavaScript, APIs, and SQL. I enjoy turning repetitive testing into reliable, maintainable automation and finding better ways to catch issues early.
 
-Most of my work focuses on UI, API, and end-to-end testing, with an emphasis on writing reliable, maintainable tests and learning by building. Feel free to look round! 🐛
+Most of my work focuses on UI, API, and end-to-end testing, while learning more about CI/CD, test frameworks, and the wider software development process. I learn best by building things, breaking them, fixing them, and seeing how everything fits together.
+
+Feel free to have a look around!
 
 ---
 
