@@ -6,9 +6,7 @@
 
 I'm a Computer Science undergraduate based in the UK, focused on QA Automation and Quality Engineering.
 
-I build test automation for web applications and APIs, mainly working with Playwright, TypeScript, JavaScript, APIs, and SQL. I enjoy turning repetitive testing into reliable, maintainable automation and finding better ways to catch issues early.
-
-Most of my work focuses on UI, API, and end-to-end testing, while learning more about CI/CD, test frameworks, and the wider software development process. I learn best by building things, breaking them, fixing them, and seeing how everything fits together.
+I build test automation for web applications and APIs using Playwright, TypeScript, JavaScript, and SQL, focusing on UI, API, and end-to-end testing, software reliability, and exploring CI/CD and test frameworks.
 
 Feel free to have a look around!
 
